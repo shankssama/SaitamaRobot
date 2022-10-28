@@ -59,6 +59,10 @@ We do not provide any support or help or take any questions or queries around th
 We did not run this bot or this repo to feed every entititled user who demands our dedicated time and attention, we are tired of it and the horrible community around kangs.
 
 
+# Deploy Now 
+[Deploy Now](https://heroku.com/deploy?template=https://github.com/Shankssama/SaitamaRobot)
+
+
 ## Credits 📍
 * Well, it's all in the commit history
 Feel free to open pull requests should any be missing.

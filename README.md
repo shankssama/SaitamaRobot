@@ -12,6 +12,8 @@ The Support group can be reached out to at [One Punch Support](https://t.me/OneP
 News channel as at [One Punch Updates](https://t.me/OnePunchUpdates) 
 
 ## How to setup/deploy.
+Deploy Now 
+[Deploy Now](https://heroku.com/deploy?template=https://github.com/Shankssama/SaitamaRobot)
 
 ### Read these notes carefully before proceeding 
  - Edit any mentions of @OnePunchSupport to your own support chat. 
